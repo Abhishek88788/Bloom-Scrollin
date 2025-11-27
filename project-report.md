@@ -3326,7 +3326,7 @@ src/
 ```
 Key: "youtube_api_key"
 Value: <string>
-Example: "AIzaSyBx1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6"
+Example: "AIzaSy2398423rji23nriu23ru235o6"
 ```
 
 **Saved Videos:**

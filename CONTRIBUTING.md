@@ -44,12 +44,12 @@ Before you begin, ensure you have the following installed:
 1. Fork the repository on GitHub
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/learn-reel-flow.git
-   cd learn-reel-flow
+   git clone https://github.com/Abhishek88788/Bloom-Scrolling.git
+   cd Bloom-Scrolling
    ```
 3. Add the upstream repository:
    ```bash
-   git remote add upstream https://github.com/testing230879-rgb/learn-reel-flow.git
+   git remote add upstream https://github.com/Abhishek88788/Bloom-Scrolling.git
    ```
 
 ## Development Setup

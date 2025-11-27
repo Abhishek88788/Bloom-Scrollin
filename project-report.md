@@ -7,32 +7,32 @@ Submitted in partial fulfillment of the requirements for the award of the degree
 ## BACHELOR OF COMPUTER APPLICATIONS
 
 Submitted By:
-[Your Name]
-[Your Roll Number]
+Abhishek
+230879000116
 
 Under the Guidance of:
-[Guide Name]
-[Designation]
+Aman Narang
+Assis.prof
 
 ## DEPARTMENT OF COMPUTER APPLICATIONS
-[UNIVERSITY NAME]
-[YEAR]
+CCSU
+2025
 
 ---
 
 # CERTIFICATE
 
-This is to certify that the project entitled **"Bloom Scrolling – A Focused Learning Platform Using Short Educational Reels"** is a bonafide work carried out by **[Student Name]**, in partial fulfillment of the requirements for the award of the degree of **Bachelor of Computer Applications** from **[University Name]** during the academic year **[Year]**.
+This is to certify that the project entitled **"Bloom Scrolling – A Focused Learning Platform Using Short Educational Reels"** is a bonafide work carried out by **Abhishek**, in partial fulfillment of the requirements for the award of the degree of **Bachelor of Computer Applications** from **CCSU** during the academic year **2025**.
 
 The project has been carried out under my guidance and supervision.
 
 **Project Guide**  
-[Guide Name]  
-[Designation]  
+ Aman Narang 
+ assis.prof  
 Department of Computer Applications
 
 **Head of Department**  
-[HOD Name]  
+Anand  
 Department of Computer Applications
 
 **External Examiner**
@@ -44,10 +44,10 @@ Place:
 
 # DECLARATION
 
-I hereby declare that the project work entitled **"Bloom Scrolling – A Focused Learning Platform Using Short Educational Reels"** submitted to **[University Name]** is a record of an original work done by me under the guidance of **[Guide Name]**, and this project work has not been submitted elsewhere for the award of any degree or diploma.
+I hereby declare that the project work entitled **"Bloom Scrolling – A Focused Learning Platform Using Short Educational Reels"** submitted to **CCSU** is a record of an original work done by me under the guidance of **Aman**, and this project work has not been submitted elsewhere for the award of any degree or diploma.
 
-**[Student Name]**  
-[Roll Number]  
+**Abhishek**  
+230879000116  
 BCA 5th Semester  
 Department of Computer Applications
 
@@ -60,9 +60,9 @@ Place:
 
 I would like to express my sincere gratitude to all those who have contributed to the successful completion of this project.
 
-First and foremost, I would like to thank my project guide **[Guide Name]**, for their invaluable guidance, constant encouragement, and support throughout the development of this project. Their insights and suggestions have been instrumental in shaping this work.
+First and foremost, I would like to thank my project guide **Aman narang**, for their invaluable guidance, constant encouragement, and support throughout the development of this project. Their insights and suggestions have been instrumental in shaping this work.
 
-I am deeply grateful to **[HOD Name]**, Head of the Department of Computer Applications, for providing the necessary facilities and resources required for the completion of this project.
+I am deeply grateful to **Anand**, Head of the Department of Computer Applications, for providing the necessary facilities and resources required for the completion of this project.
 
 I extend my heartfelt thanks to all the faculty members of the Department of Computer Applications for their continuous support and encouragement during the course of this project.
 
@@ -70,7 +70,7 @@ I would also like to acknowledge my classmates and friends for their constructiv
 
 Last but not least, I am thankful to my parents and family members for their unconditional support and encouragement.
 
-**[Student Name]**
+**Abhishek**
 
 ---
 

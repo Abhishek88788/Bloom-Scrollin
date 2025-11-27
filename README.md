@@ -1,7 +1,7 @@
 # Bloom Scrolling - YouTube Reels Experience
 
 A modern, Instagram Reels-inspired YouTube video player built as a university project. This application transforms traditional YouTube browsing into an engaging, vertical scrolling experience with a minimalist design and intuitive interface.
-
+<!--
 ## 📸 Screenshots & Demo
 
 ### Main Interface
@@ -31,7 +31,7 @@ A modern, Instagram Reels-inspired YouTube video player built as a university pr
 > - [Kap](https://getkap.co/) (Mac)
 > - [Peek](https://github.com/phw/peek) (Linux)
 > - [LICEcap](https://www.cockos.com/licecap/) (Cross-platform)
-
+-->
 ## 📖 Project Overview
 
 Bloom Scrolling is a web-based video streaming application that fetches YouTube videos based on user searches and displays them in a full-screen, vertical scrolling format similar to Instagram Reels or TikTok. The project demonstrates modern web development practices, API integration, and responsive UI/UX design.
